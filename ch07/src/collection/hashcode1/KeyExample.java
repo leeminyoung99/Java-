@@ -1,4 +1,4 @@
-package sec01.hashcode1;
+package collection.hashcode1;
 
 import java.util.HashMap;
 

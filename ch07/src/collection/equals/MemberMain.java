@@ -1,4 +1,4 @@
-package sec01.equals;
+package collection.equals;
 
 public class MemberMain {
 

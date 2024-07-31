@@ -1,4 +1,4 @@
-package sec01.tostring01;
+package collection.tostring01;
 
 import java.util.Date;
 

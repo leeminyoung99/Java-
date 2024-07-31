@@ -1,4 +1,4 @@
-package sec01.tostring02;
+package collection.tostring02;
 
 public class SmartPhone {
 	private String company;

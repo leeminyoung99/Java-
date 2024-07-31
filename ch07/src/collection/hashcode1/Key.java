@@ -1,4 +1,4 @@
-package sec01.hashcode1;
+package collection.hashcode1;
 
 public class Key {
 	public int number;

@@ -1,4 +1,4 @@
-package sec01.equals;
+package collection.set;
 
 public class Member {
 		public String id;
